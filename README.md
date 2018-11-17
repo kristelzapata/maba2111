@@ -1,4 +1,4 @@
-# This contains Kristel's R script files for Computing for Analytics 1 class.
+# Kristel's R script files for Computing for Analytics 1 class
 
 
 
@@ -14,16 +14,16 @@
 #### Assignment01.R
 #### Machine Problem
 
-```
-Assignment01.R
-```
 
-#### Basic data analysis on Basketball Statistics and University Rankings
+### Assignment01.R
 
 ```
-Machine Problem
+Basic data analysis on Basketball Statistics and University Rankings
 ```
 
-#### Created simple NA removal, net pay computation, Prime number checker, factorial and compound interest functions.  
+### Machine Problem
 
+```
+Created simple NA removal, net pay computation, Prime number checker, factorial and compound interest functions.  
+```
  
